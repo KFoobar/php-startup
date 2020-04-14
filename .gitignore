@@ -1,0 +1,15 @@
+/node_modules
+/public/js
+/public/fonts
+/public/images
+/public/css
+/public/mix-manifest.json
+/storage/cache/*
+/storage/logs/*
+/vendor
+.DS_Store
+.env
+composer.lock
+package-lock.json
+npm-debug.log
+yarn-error.log
